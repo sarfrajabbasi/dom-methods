@@ -1,0 +1,31 @@
+ /* /* #header {
+
+  /* border:1px solid blue ; 
+  background-color: crimson;  */
+/* } */ 
+
+/* .abc{ 
+  background-color: blueviolet;
+  color:lawngreen;
+}
+
+.xyz{
+  background-color:teal;
+  border:5px solid black ; 
+}
+.xyz{
+  animation: colorchangeworld 1s infinite;
+}
+@keyframes colorchangeworld{
+  0%{color: red;}
+  25%{color:white;}
+  50%{color: orangered;}
+  75%{color:blueviolet ;}
+  100%{color:yellow;}
+} */
+
+#test{
+  width:150px ;
+  height: 150px;
+  background: orangered;
+}
